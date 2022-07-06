@@ -2,7 +2,7 @@
 
 
 ```golang
-class Cliente():
+class Me():
 	def __init__(self):
 		self.nombre="Angel"
         	self.apellidos="Vargas"
