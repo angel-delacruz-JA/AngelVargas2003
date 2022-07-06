@@ -1,6 +1,11 @@
 ### Hi there 👋
+### I am Angel Vargas and I am currently doing my internship to graduate, I am passionate about programming, I like to learn new languages and new technologies, at the moment I am participating in the development of a new system for the company Red Nacional de Refugios SIILGE A.C.
+### - My stats...
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AngelVargas2003&show_icons=true&hide_border=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelVargas2003&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+</br>
+----
+### - My favorite and most used languajes...
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelVargas2003&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 ---
 <h2> - Languajes and tools...</h2>
