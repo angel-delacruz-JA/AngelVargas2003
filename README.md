@@ -25,9 +25,10 @@ func GetBio() Bio {
 
 </br>
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 ### - My stats...
+
+<img align="right" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AngelVargas2003&show_icons=true&theme=merko&border_color=67D242)
 
