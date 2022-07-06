@@ -27,7 +27,7 @@ if __name__=='__main__':
 
 <img align="right" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AngelVargas2003&show_icons=true&theme=merko&border_color=67D242)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AngelVargas2003&show_icons=true&theme=merko&border_color=67D242&include_all_commits=true)
 
 </br>
 
@@ -35,9 +35,9 @@ if __name__=='__main__':
 
 ### - My favorite and most used languages...
 
-<img src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif" align="right"  width="30%"/>
+<img src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif" align="right"  width="20%"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelVargas2003&show_icons=true&theme=merko&border_color=67D242)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelVargas2003&langs_count=10&layout=compact&show_icons=true&theme=merko&border_color=67D242)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 
 ---
