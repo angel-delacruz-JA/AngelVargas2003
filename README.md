@@ -1,5 +1,29 @@
 ### Hi there 👋
-### I am Angel Vargas and I am currently doing my internship to graduate, I am passionate about programming, I like to learn new languages and new technologies, at the moment I am participating in the development of a new system for the company Red Nacional de Refugios SIILGE A.C.
+
+
+```golang
+package main
+
+import (
+	"fmt"
+)
+
+type Bio map[string]string
+
+func main() {
+	for k, v := range GetBio() {
+		fmt.Printf("%+v: %+v\n", k, v)
+	}
+}
+
+func GetBio() Bio {
+	return Bio{
+		"- ⚡ Quick bio:": "I am Angel Vargas and I am currently doing my internship to graduate, I am passionate about programming, I like to learn new languajes and technologies, at the moment I am participating in the development of a new system for the company Red Nacional de Refugios SIILGE A.C." 
+	}
+}
+```
+
+</br>
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
