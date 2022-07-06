@@ -25,6 +25,8 @@ if __name__=='__main__':
 
 ### - My stats...
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AngelVargas2003&show_icons=true&theme=merko&border_color=67D242)
+
 <img align="right" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 
