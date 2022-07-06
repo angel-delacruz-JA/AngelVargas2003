@@ -37,7 +37,7 @@ if __name__=='__main__':
 
 <img src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif" align="right"  width="20%"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelVargas2003&langs_count=10&layout=compact&show_icons=true&theme=merko&border_color=67D242)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelVargas2003&langs_count=10&layout=compact&show_icons=true&theme=dark&border_color=67D242)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 
 ---
