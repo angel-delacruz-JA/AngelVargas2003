@@ -11,7 +11,7 @@ class Me():
 	def getBiografia(self):
 		return {
 		    "nombre":self.nombre,
-		    "apellidos":self.Vargas,
+		    "apellidos":self.apellidos,
 		    "bio":self.bio
 		}
 if __name__=='__main__':
