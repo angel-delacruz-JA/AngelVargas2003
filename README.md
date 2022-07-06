@@ -21,6 +21,7 @@ if __name__=='__main__':
 
 </br>
 
+---
 
 ### - My stats...
 
@@ -32,7 +33,7 @@ if __name__=='__main__':
 
 ----
 
-### - My favorite and most used languajes...
+### - My favorite and most used languages...
 
 <img src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif" align="right"  width="30%"/>
 
@@ -41,7 +42,7 @@ if __name__=='__main__':
 
 ---
 
-<h2> - Languajes and tools...</h2>
+<h2> - Languages and tools...</h2>
 <p align="center">
 
 <code><a href="https://laravel.com" target="_blank"><img height="50" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg"></a></code>
