@@ -14,7 +14,7 @@ class Me():
 		    "apellidos":self.Vargas,
 		    "bio":self.bio
 		}
-	if __name__=='__main__':
+if __name__=='__main__':
 		getBiografia()
 
 ```
