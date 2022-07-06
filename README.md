@@ -13,6 +13,8 @@
 
 ### - My favorite and most used languajes...
 
+<img src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif" align="right"  width="30%"/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelVargas2003&show_icons=true&theme=merko&border_color=67D242)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 
