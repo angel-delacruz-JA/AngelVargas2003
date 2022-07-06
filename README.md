@@ -56,6 +56,7 @@ if __name__=='__main__':
  <code><a href="https://adonisjs.com" target="_blank"><img height="50" src="https://camo.githubusercontent.com/076aacc894daf3d9065f7d5bd1d7e8a3d0511668576cd66afddd0ce4af524eaa/68747470733a2f2f692e696d6775722e636f6d2f32774764454a4e2e706e67"></a></code>
  <code><a href="https://angular.io" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png"></a></code>
  <code><a href="https://developer.android.com/docs" target="_blank"><img height="50" src="https://1000marcas.net/wp-content/uploads/2020/01/Logo-Android.png"></a></code>
+ <code><a target="_blank"><img height="50" src="https://resources.jetbrains.com/storage/products/phpstorm/img/meta/phpstorm_logo_300x300.png"></a></code>
 </p>
 
 </br>
