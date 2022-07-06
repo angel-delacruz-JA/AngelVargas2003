@@ -15,7 +15,7 @@ class Me():
 		    "bio":self.bio
 		}
 if __name__=='__main__':
-		getBiografia()
+		Me.getBiografia()
 
 ```
 
