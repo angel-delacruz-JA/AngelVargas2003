@@ -23,16 +23,6 @@ if __name__=='__main__':
 
 ---
 
-### - My stats...
-
-<img align="right" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AngelVargas2003&show_icons=true&theme=merko&border_color=67D242&include_all_commits=true&custom_title=Hola%20soy%20Angel,%20y%20estas%20son%20mis%20estadisticas)
-
-</br>
-
-----
-
 ### - My favorite and most used languages...
 
 <img src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif" align="right"  width="20%"/>
