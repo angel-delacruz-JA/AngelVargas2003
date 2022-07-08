@@ -22,7 +22,8 @@ if __name__=='__main__':
 </br>
 
 ---
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AngelVargas2003&&show_icons=true&theme=radical)
+---
 ### - My favorite and most used languages...
 
 <img src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif" align="right"  width="20%"/>
