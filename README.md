@@ -1,23 +1,6 @@
 ### Hi there :shipit:
 
 
-```golang
-class Me():
-	def __init__(self):
-		self.nombre="Angel"
-        	self.apellidos="Vargas"
-        	self.bio="I am Angel Vargas and I am currently doing my internship to graduate, I am passionate about programming, I like to learn new languajes andtechnologies, at the moment I am participating in the development of a new system for the company Red Nacional de Refugios SIILGE A.C."
-        	self.__idx__=0
-	def getBiografia(self):
-		return {
-		    "nombre":self.nombre,
-		    "apellidos":self.apellidos,
-		    "bio":self.bio
-		}
-if __name__=='__main__':
-		Me.getBiografia()
-
-```
 
 </br>
 
