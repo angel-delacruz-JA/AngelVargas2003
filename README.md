@@ -5,7 +5,7 @@
 </br>
 
 ---
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AngelVargas2003&&show_icons=true&theme=radical)
 ---
 ### - My favorite and most used languages...
 
